@@ -12,7 +12,7 @@ I am using ng-gapi node module to achieve this task.
     - Create/Select the project
     - Go to Credentials
     - In OAuth consent screen, type product name.
-    - create )Auth Client ID credentials
+    - create OAuth Client ID credentials
         -   Select Web Application
         -   Add Authorised JavaScript origins like http://localhost:4200
     - Keep the Client ID and place it in app.module of this project.
