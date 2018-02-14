@@ -6,7 +6,7 @@ I am using ng-gapi node module to achieve this task.
 
 ## Pre - requisite
 
-1. Install gapi :  npm install ng-gapi
+1. Require ng-gapi node module
 
 2. Get the Web Client Id from Google API Console.
     - Create/Select the project
