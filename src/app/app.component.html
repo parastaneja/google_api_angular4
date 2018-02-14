@@ -1,0 +1,18 @@
+<!-- <p>Gmail API Quickstart</p> -->
+
+<!--Add buttons to initiate auth sequence and sign out-->
+<!-- <button id="authorize-button" style="display: none;">Authorize</button>
+<button id="signout-button" style="display: none;">Sign Out</button>
+
+<pre id="content"></pre> -->
+
+<div class="main-wrapper">
+    <div class="app" id="app" *ngIf="isSignedIn(); else login">
+  
+      <app-home></app-home>
+    </div>
+  
+    <ng-template #login>
+      <login-form></login-form>
+    </ng-template>
+  </div>
