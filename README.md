@@ -1,8 +1,10 @@
-# MyApp
+# Access Google API using Angular 4
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+This is sample application to integrate Google API using Angular 4.
+In this Application, I am accessing Google Drive API and got the storage information from the google Drive.
+I am using ng-gapi node module to achieve this task. 
 
-## Development server
+## Pre - requisite
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
