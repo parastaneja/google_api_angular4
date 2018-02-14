@@ -27,7 +27,7 @@ I am using ng-gapi node module to achieve this task.
 
 3. Run the npm install command
 
-4. Run the ng serve command 
+4. Run the npm start command 
 
 ## References
 https://developers.google.com/drive/v3/web/quickstart/js <br>
