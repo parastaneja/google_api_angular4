@@ -15,7 +15,7 @@ import { NG_GAPI_CONFIG } from "ng-gapi/lib/GoogleApiService";
 
 
 let gapiClientConfig: NgGapiClientConfig = {
-  client_id: "630532924315-49nv1vf4qpu0rsfsksftb8epqa2enris.apps.googleusercontent.com",
+  client_id: "<<Client_id>>",
   discoveryDocs: ["https://www.googleapis.com/discovery/v1/apis/drive/v3/rest"],
   scope: [
     "https://www.googleapis.com/auth/drive"
